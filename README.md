@@ -1,2 +1,2 @@
-# Maratona-programacao Semana 01
-Exercicios da semana 01
+# Maratona-programacao 
+Exercicios de cada semana estao em cada pasta com o nome do problema.cpp 
